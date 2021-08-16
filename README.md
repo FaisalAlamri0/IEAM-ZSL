@@ -36,7 +36,7 @@ pip install -r requirements.txt
 conda install pytorch torchvision torchaudio cudatoolkit=11.1 -c pytorch -c nvidia
 ```
 #### 4) Train (and test) the model
-open jupyter notebook(s) provided in [Explicit_Attention](Explicit_Attention), and [Explicit and Implicit_Attention](Explicit_Implicit_Attention)
+open jupyter notebook(s) provided in [Explicit and Implicit_Attention](Explicit_Implicit_Attention)
 ```
 jupyter notebook {NAME-of-jupyter notebook}.ipynb
 ```
