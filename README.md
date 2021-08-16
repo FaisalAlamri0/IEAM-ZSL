@@ -1,22 +1,10 @@
 # Low_Short_Learning
 
 
-Multi-headed mechanism adpated from the [ViT](https://arxiv.org/pdf/2010.11929.pdf) is used in ZSL for the first time in two apporaches
+ Implicit and Explicit Attention For Zero-Shot Learning 
 
 
-# 1) Explicit Attention
-As provided in [Explicit_Attention](Explicit_Attention):
-Explicit Attention as depicted below is implmeneted using: <br />
-i) ResNet101 as in [Resnet101_ExplicitAttention](Explicit_Attention/Explicit%20Attention--ResNet101.ipynb) <br />
-ii) ViT as in [ViT_ExplicitAttention](Explicit_Attention/Explicit%20Attention--ViT.ipynb)
-
-![](figs/Explicit__Attention.jpg)
-
-
-
-
-
-# 2) Explicit +  Implicit Attention
+Explicit +  Implicit Attention
 As provided in [Explicit and Implicit_Attention](Explicit_Implicit_Attention):
 Explicit Attention as depicted below is implmeneted using: <br />
 i) ResNet101 as in [Resnet101_Explicit+ImplicitAttention](Explicit_Implicit_Attention/Explicit_AND_Implicit_Attention--ResNet101.ipynb)<br />
