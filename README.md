@@ -6,7 +6,7 @@
 
 Explicit +  Implicit Attention
 As provided in [Explicit and Implicit_Attention](Explicit_Implicit_Attention):
-Explicit Attention as depicted below is implmeneted using: <br />
+Explicit +  Implicit Attention as depicted below is implmeneted using: <br />
 i) ResNet101 as in [Resnet101_Explicit+ImplicitAttention](Explicit_Implicit_Attention/Explicit_AND_Implicit_Attention--ResNet101.ipynb)<br />
 ii) ViT as in [ViT_Explicit+ImplicitAttention](Explicit_Implicit_Attention/Explicit_AND_Implicit_Attention--ViT.ipynb)
 
