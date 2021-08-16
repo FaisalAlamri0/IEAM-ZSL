@@ -1,8 +1,7 @@
-# Low_Short_Learning
+#  Implicit and Explicit Attention For Zero-Shot Learning 
+## Abstract 
 
-
- Implicit and Explicit Attention For Zero-Shot Learning 
-
+Zero-Shot Learning (ZSL) aims to recognise unseen object classes, which are not observed during the training phase. Most of the existing methods focus on learning a compatibility function between the image representation and class attributes. Few others concentrate on learning image representation combining local and global features. However, the existing approaches still fail to address the bias issue towards the seen classes. In this paper, we propose implicit and explicit attention mechanisms to address the existing bias problem in ZSL models. We formulate the implicit attention mechanism with a self-supervised image angle rotation task, which focuses on specific image features aiding to solve the task. The explicit attention mechanism is composed via the consideration of a multi-headed self-attention mechanism in Vision Transformer model, which learns to map image features to semantic space during the training stage. We conduct comprehensive experiments on three popular benchmarks: AWA2, CUB and SUN. The effectiveness of our proposed attention mechanisms is evaluated in both discriminative and generative settings, and has been proven in both cases to be effective. We achieve the state-of-the-art harmonic mean on all three datasets.
 
 Explicit +  Implicit Attention
 As provided in [Explicit and Implicit_Attention](Explicit_Implicit_Attention):
